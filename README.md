@@ -1,4 +1,5 @@
-- 👋 Hi, my name is Klaudia, but you can call me Klau.
+👋 Hi, my name is Klaudia, but you can call me Klau.
+-
 - 🧘🏼‍ I like yoga, reading good books and running. 
 - 📱 I’m currently learning Swift UI.
 - 👩🏼‍💻 I help businesses grow 
